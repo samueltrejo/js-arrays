@@ -5,3 +5,22 @@ body {
 .dinosaur {
     border: 2px solid skyblue;
 }
+
+.assignment-div {
+    display: flex;
+    flex-flow: column;
+    
+}
+
+.assignments {
+    padding: 15px;
+    text-align: center;
+    border: 5px solid lightblue;
+    background-color: white;
+}
+
+.title {
+    padding: 10px;
+    background: lightblue;
+    border-bottom: 1px solid grey;
+}
